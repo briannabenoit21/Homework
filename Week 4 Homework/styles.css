@@ -1,0 +1,15 @@
+.box-model{
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+    border: 5px solid #000;
+    margin: 30px;
+    background-color: rgb(153, 52, 104);  
+
+
+}
+div,
+.flex {
+  /* selects all div elements and all elements with the class "flex" */
+}
+
