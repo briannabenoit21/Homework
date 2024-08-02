@@ -11,3 +11,4 @@ function greetCustomer() {
 
 // Call the function to see the greeting and toppings
 greetCustomer();
+
